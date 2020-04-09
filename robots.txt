@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://parinapatel.github.io/sitemap.xml
+Host: https://parinapatel.github.io
